@@ -36,7 +36,7 @@ function resetar()
 {
     clearInterval(relogio);
     timer.innerHTML="00:00:00";
-    segundos=0;
+    segundos=0; 
 }
 
 
